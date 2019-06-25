@@ -23,4 +23,5 @@
 23. [Enhanced Deep Residual Networks for Single Image Super-Resolution](https://note.youdao.com/ynoteshare1/index.html?id=2e9ffad158a67e63bd1d77be85a954cb&type=notebook#/WEBa3b804663ede01faed30333a00412691), tags:single image SR, EDSR   
 24. [Deep Back-projection networks for super-resolution](https://note.youdao.com/ynoteshare1/index.html?id=2e9ffad158a67e63bd1d77be85a954cb&type=notebook#/WEB2c955eb57c4f20aa45e3f9cce3ecf9d2), tags:single image SR, DBPN   
 25. [Deep learning for image super-resolution: a survey](https://note.youdao.com/ynoteshare1/index.html?id=2e9ffad158a67e63bd1d77be85a954cb&type=notebook#/WEB2a66a2946b1f86b7b3266dc7a54bfea0), tags:single image SR, survey
-26. [Jie Huang's blog](https://https://kevinj-huang.github.io/), tags:blogs
+26. [Jie Huang's blog](https://https://kevinj-huang.github.io/), tags:blog
+27. [Zhen Cheng's blog](https://https://joechann0831.github.io/), tags:blog
