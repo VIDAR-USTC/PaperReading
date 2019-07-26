@@ -25,3 +25,4 @@
 25. [Deep learning for image super-resolution: a survey](https://note.youdao.com/ynoteshare1/index.html?id=2e9ffad158a67e63bd1d77be85a954cb&type=notebook#/WEB2a66a2946b1f86b7b3266dc7a54bfea0), tags:single image SR, survey
 26. [Jie Huang's blog](https://kevinj-huang.github.io/), tags:blog
 27. [Zhen Cheng's blog](https://joechann0831.github.io/), tags:blog
+28. [CVPR 2019 paper reading and Prof. Dong's writing seminar](https://note.youdao.com/ynoteshare1/index.html?id=67df2278e281c4f2694ef429fc7c5a35&type=note), tags:notes, paper writing
